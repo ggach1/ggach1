@@ -21,6 +21,17 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ggach1&show_icons=true&theme=transparent" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggach1&layout=compact&theme=transparent" height="160px"/>
+</p>
+
+<br>
+
+---
+
 ### 🛠️ Tech Stack
 
 **Language** <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
