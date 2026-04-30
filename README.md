@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="mailto:dlsdnj1234@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ggach1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="[https://github.com/ggach1](https://ggm.gondr.net/user/profile/370)">
 </p>
 
 <br>
